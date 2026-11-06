@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">ThreadHandlerWizard</string>
-    <string name="start">Start</string>
-    <string name="cancel">Cancel</string>
-    <string name="percent_format">%1$d%%</string>
-</resources>
